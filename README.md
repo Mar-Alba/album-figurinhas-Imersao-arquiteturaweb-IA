@@ -46,3 +46,5 @@ O objetivo principal é oferecer uma experiência imersiva e responsiva de colec
 
 ## 🛠️ Como Executar
 Basta abrir o arquivo [index.html](index.html) diretamente em qualquer navegador moderno. Toda a lógica funciona localmente offline no navegador por meio de `localStorage`.
+
+# Contem uso de IA.
