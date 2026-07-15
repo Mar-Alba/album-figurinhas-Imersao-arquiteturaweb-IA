@@ -2,6 +2,7 @@
 # Álbum de Figurinhas Digital - Elsword
 
 Este é um projeto interativo de colecionador que simula um álbum de figurinhas físico em 3D, dedicado aos personagens jogáveis do jogo **Elsword** da KOG Games.
+Projeto em desenvolvimento - Imersão Alura de Arquitetura Web com IA (e personalização de minha autoria)
 
 ---
 
